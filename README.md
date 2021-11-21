@@ -25,4 +25,13 @@
 
 ### И считаем общее кол-во чтений, которые попали на гены
 <img src="/pic/all_count.png">
+
+## Часть 2
+
+### plotMA
+<img src="/pic/plotMA.png">
+
+### HeatMap
+<img src="/pic/heatmap.png">
+
 *Ссылка на GoogleCola(part 2: DESeq):* https://colab.research.google.com/drive/174aQET9h9qfX1d2BlBC1_sDz0-FJ09kn?usp=sharing
